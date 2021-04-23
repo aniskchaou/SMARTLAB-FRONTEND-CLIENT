@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="logo.png"/>
+<img  src="screenshots/logo.png"/>
 </p>
 
 
@@ -35,7 +35,7 @@ Please read the [documentation](https://github.com/aniskchaou/SMARTLAB-FRONTEND-
 
 ## Screenshots
 <p align="center">
-<img  src="screenshot.png"/>
+<img  src="screenshots/screenshot.png"/>
 <p>
 
 ## Technologies
